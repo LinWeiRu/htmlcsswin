@@ -54,4 +54,11 @@ table {
     color: darkcyan;
     font-weight: bold;
     font-family: 微軟正黑體;
+    text-align: center; 
+}
+.abc h1{
+    font-size: 30px;
+    color:burlywood;
+    font-family: 微軟正黑體;
+    text-align: center; 
 }
